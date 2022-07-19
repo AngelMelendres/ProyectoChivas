@@ -1,0 +1,24 @@
+body{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.opcionAside a{
+    background-color: rgb(31, 40, 41);
+}
+.opcionAside a:hover{
+    background-color: rgb(96, 60, 196);
+    
+}
+.btn-darkS{
+    background-color: rgb(31, 40, 41);
+    color: white ;
+}
+.btn-w{
+   width: 100px;
+   background-color: rgb(31, 40, 41);
+}
+
+.btn-w:hover{
+    width: 110px;
+    color: rgb(253, 253, 253);
+    background-color: rgb(216, 15, 15);
+ }

@@ -1,0 +1,14 @@
+<?php
+//clase base de Views
+class View{
+    function __construct(){
+        
+    }
+
+    public function render($nombre){
+        require 'views/'.$nombre.'.php';
+        
+    }
+
+}
+?>
