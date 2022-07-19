@@ -1,3 +1,19 @@
+Integrantes: 
+
+Andrés Lagos – 6926 
+
+Erika Estrada – 7131 
+
+Christian Espín – 6919 
+
+Bryan Reinoso – 6927 
+
+Ángel Melendres – 6829 
+
+Carlos Yuquilema – 6477 
+
+Edison Gualle – 6821 
+
 MANUAL PARA DESARROLLADORES
 
 APLICACION CONSTRUIDA POR:
